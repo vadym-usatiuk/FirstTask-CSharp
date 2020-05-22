@@ -1,4 +1,2 @@
-# FirstTask
-С#.NET
-Найдите максимальную сумму пути от вершины до основания следующего треугольника на https://dl.dropboxusercontent.com/u/28873424/tasks/simple_triangle.txt Примечание:
-Эту задачу можно решить перебором всех возможных вариантов, их здесь 16384.
+C # .NET 
+Find the maximum amount of the path from the top to the bottom of the next triangle at https://dl.dropboxusercontent.com/u/28873424/tasks/simple_triangle.txt Note: This problem can be solved by enumerating all possible options, there are 16384 of them.
